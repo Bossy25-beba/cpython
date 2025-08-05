@@ -1,4 +1,4 @@
-# This script must be sourced with the following variables already set:
+kill# This script must be sourced with the following variables already set:
 : "${ANDROID_HOME:?}"  # Path to Android SDK
 : "${HOST:?}"  # GNU target triplet
 
