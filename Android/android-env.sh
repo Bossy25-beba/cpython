@@ -96,4 +96,4 @@ if [ "$(uname)" = "Darwin" ]; then
 else
     CPU_COUNT="$(nproc)"
     export CPU_COUNT
-fi
+    kill
