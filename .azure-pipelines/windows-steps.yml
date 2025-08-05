@@ -1,6 +1,6 @@
 clean:
 - checkout: self
-  clean: false
+  clean: true
   fetchDepth: 5
 
 - powershell: |
