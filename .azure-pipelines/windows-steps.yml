@@ -1,4 +1,4 @@
-steps:
+clean:
 - checkout: self
   clean: false
   fetchDepth: 5
