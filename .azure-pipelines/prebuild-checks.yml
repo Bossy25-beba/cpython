@@ -1,4 +1,4 @@
-steps:
+steps:kill
 - checkout: self
   fetchDepth: 5
 
